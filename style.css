@@ -1,0 +1,27 @@
+header {
+	background-color:black;
+}
+header>img {
+	margin: 10px;
+	margin-left: 30px;
+}
+body {
+	background-color: gray;
+	color: red;
+}
+.gradient {
+	background-color:black;
+	height:500px;
+	width: 1200px;
+	position: fixed; right:10px; top:200px;
+}
+.gradient2 {
+	background-color: ;
+	height:500px;
+	width: 500px;
+
+
+}
+.tst {
+	position:fixed; right:400px; top:200px;
+}

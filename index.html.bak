@@ -15,8 +15,9 @@
 		</div>
 		<div class="gradient">
 			<div class="gradient2">
-				<center><img src="zdjecie.jpg" alt="zdjecie" class="tst"></center>
 			</div>
+				<center><img src="zdjecie.jpg" alt="zdjecie" class="tst"></center>
+			
 		</div>
 	</div>	
 </body>
